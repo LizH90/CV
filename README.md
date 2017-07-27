@@ -25,14 +25,12 @@ I am used to working in high-pressure environments and have demonstrated my abil
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
-
-Bath University (2009-2013)
+#### Bath University (2009-2013)
 
 Economics BSc(Hons) 2:1
-•	Behavioral Economics
-•	Government Policy
-•	Macro Economics
+  Behavioral Economics
+  Government Policy
+  Macro Economics
 
 
 ## Experience
