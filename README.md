@@ -16,7 +16,7 @@ I am used to working in high-pressure environments and have demonstrated my abil
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July - October 2017)
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
