@@ -1,6 +1,10 @@
 ## Lizzie Hard
 
-After 4 years working in an Investment Bank I am looking for a new challenge and to enhance my programming skills. I am enthusiastic and a quick learner and in previous a roles I have enjoyed collaborating with various teams solve problems and working towards better user functionalities.
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [LinkedIn](#https://www.linkedin.com/in/lizzie-hard-559960aa/)
+
+<p>After 4 years working in an Investment Bank I am looking for a new challenge as a junior developer where I will be able to continue to enhance my skills. </p>
+
+<p>I am enthusiastic and a quick learner and in previous a roles I have enjoyed collaborating with various teams solve problems and working towards better user functionalities.</p>
 
 ## Skills
 
@@ -18,12 +22,12 @@ I am used to working in high-pressure environments and have demonstrated my abil
 
 #### Makers Academy (July - October 2017)
 
-- Curiosity and passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript, Node.js, PostgreSQL
+- Rspec, Jasmine, Capybara, Mocha
+- XP values and Agile development process
 
 #### Bath University (2009-2013)
 
@@ -48,4 +52,7 @@ Helping to operationally manage the Syndicate Loan portfolio in both participant
 
 ## Hobbies
 
-In my spare time I like to play hockey with Wapping Hockey Club, whether its league hockey in winter or summer hockey to keep up the fitness levels. I enjoy reading and I’m currently working my way through a lot of classics. When I have time I love to cook from one of my many recipe books or check out a new restaurant I’ve read about. I also love exploring new places either in London or completely new countries.
+- Playing hockey, whatever the season to keep up fitness levels
+- Love to cook in my spare time or try a new restaurant I've read about, I am running out of space for my recipe books
+- If I have a quiet moment you'll find me working my way through a new book
+- I also love exploring new places either in London or completely new countries
