@@ -1,6 +1,6 @@
 ## Lizzie Hard
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Linkedin](https://www.linkedin.com/in/lizzie-hard-559960aa)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Linkedin](https://www.linkedin.com/in/lizzie-hard-559960aa)
 
 <p>After 4 years working in an Investment Bank I am looking for a new challenge as a junior developer where I will be able to continue to enhance my skills. </p>
 
