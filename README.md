@@ -4,7 +4,7 @@
 
 <p>After 4 years working in an Investment Bank I am looking for a new challenge as a junior developer where I will be able to continue to enhance my skills. </p>
 
-<p>I am enthusiastic and a quick learner and in previous a roles I have enjoyed collaborating with various teams solve problems and working towards better user functionalities.</p>
+<p>I am enthusiastic and a quick learner and in previous a roles I have enjoyed collaborating with various teams to resolve system issues and work towards a better user experience.</p>
 
 ## Projects
 
@@ -14,14 +14,14 @@ Project | Description | Technologies Used | Testing Technologies
 [Notepad with News API](https://github.com/david-div/DwepsNotePad) | A one page JavaScript notepad, which expands when you click on the note with an inbuilt News API | JavaScript, APIs | Jasmine
 [RickBreaker](https://github.com/ofrost617/slofe-brickbreaker)| A Rick and Morty themed BrickBreaker game | JavaScript, Phaser.JS framework | Jasmine
 [Instagram Clone](https://github.com/LizH90/instagram/blob/master/README.md)|An instagram web app where users can sign in and post pictures to the main feed | Ruby on Rails, Devise, PostgreSQL | Rspec Cabybara
-[MakersBnb](https://github.com/willjsporter/makersbnb)|An Airbnb clone allowing users to sign in and list their properties for available dates|Node.js, MongoDB, Express, Heroku | Zombie, Mocha 
+[MakersBnb](https://github.com/willjsporter/makersbnb)|An Airbnb clone allowing users to sign in and list their properties for available dates|Node.js, MongoDB, Express, Heroku | Zombie, Mocha
 
 ## Skills
 
 #### Communication
 
 During my time working in my previous role I have developed my communications skills in multiple settings. As part of a global team I have shown my ability to collaborate with regional colleagues, navigating the difficulties of physical distance and alternative business methods through transparency and knowledge sharing.
-I often have to communicate complicated issues quickly and precisely adjusting my style depending on the audience. I am confident communicator and I looked to continually enhanced my skills by taking opportunities such as sitting on panels at recruitment events and presentations to senior stakeholders.
+I often had to communicate complicated issues quickly and precisely adjusting my style depending on the audience. I am confident communicator and I looked to continually enhanced my skills by taking opportunities such as sitting on panels at recruitment events and presentations to senior stakeholders.
 
 
 #### Works Well Under Pressure
@@ -42,9 +42,9 @@ I am used to working in high-pressure environments and have demonstrated my abil
 #### Bath University (2009-2013)
 
 Economics BSc(Hons) 2:1
-  Behavioral Economics
-  Government Policy
-  Macro Economics
+  * Behavioral Economics
+  * Government Policy
+  * Macro Economics
 
 
 ## Experience
