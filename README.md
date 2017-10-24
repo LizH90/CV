@@ -4,7 +4,7 @@
 
 <p>After 4 years of working in an Investment Bank I am looking for a new challenge as a junior developer where I will be able to continue to enhance my skills. </p>
 
-<p>I am enthusiastic and a quick learner and in previous roles I have enjoyed collaborating with various teams to resolve system issues and work towards a better user experience.</p>
+<p>I am enthusiastic and a quick learner and in previous roles I have enjoyed collaborating with various teams to resolve system issues and work towards better user experiences.</p>
 
 ## Projects
 
