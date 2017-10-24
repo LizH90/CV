@@ -4,7 +4,7 @@
 
 <p>After 4 years of working in an Investment Bank I am looking for a new challenge as a junior developer where I will be able to continue to enhance my skills. </p>
 
-<p>I am enthusiastic and a quick learner and in previous a roles I have enjoyed collaborating with various teams to resolve system issues and work towards a better user experience.</p>
+<p>I am enthusiastic and a quick learner and in previous roles I have enjoyed collaborating with various teams to resolve system issues and work towards a better user experience.</p>
 
 ## Projects
 
@@ -21,13 +21,13 @@ Project | Description | Technologies Used | Testing Technologies
 
 #### Communication
 
-During my time working in my previous role I have developed my communications skills in multiple settings. As part of a global team I have shown my ability to collaborate with regional colleagues, navigating the difficulties of physical distance and alternative business methods through transparency and knowledge sharing.
-I often had to communicate complicated issues quickly and precisely adjusting my style depending on the audience. I am confident communicator and I looked to continually enhanced my skills by taking opportunities such as sitting on panels at recruitment events and presentations to senior stakeholders.
-
+While working in my previous role I was able to develop my communications skills in multiple settings. As part of a global team I have shown my ability to collaborate with regional colleagues. This involved navigating the difficulties of physical distance and alternative business methods to complete tasks in tight timeframes.
+I often had to communicate complicated issues quickly and precisely adjusting my style depending on the audience. I am confident communicator and looked for opportunities to continually enhance my skills. These included sitting on panels at recruitment events and presenting to senior stakeholders.
 
 #### Works Well Under Pressure
 
-I am used to working in high-pressure environments and have demonstrated my ability to work to strict deadlines such as funding timelines in previous roles.  I would often have competing demands and I am confident in being able to prioritise my work to ensure the tasks with the highest risks are completed first. During my time I was also happy to take on demanding and challenging projects such as ensuring our systems were ready in time for new regulatory demands.
+I am used to working in high-pressure environments and have often demonstrated my ability to work to strict deadlines. I had many targets to manage on a daily basis such as funding cut off times; if these were not met they would incur a financial penalty to the business.
+I would often have competing demands and I am confident in being able to prioritise my work to ensure the highest risk tasks are completed first. During my time I was also happy to take on challenging projects such as ensuring our systems were ready in time for new regulatory demands.
 
 ## Education
 
