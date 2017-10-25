@@ -43,7 +43,7 @@ I would often have competing demands and I am confident in being able to priorit
 #### Bath University (2009-2013)
 
 Economics BSc(Hons) 2:1
-  * Behavioral Economics
+  * Behavioural Economics
   * Government Policy
   * Macro Economics
 
